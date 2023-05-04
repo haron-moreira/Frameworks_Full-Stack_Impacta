@@ -25,3 +25,11 @@ O mesmo poderá dizer que esqueceu sua senha, e será enviado a uma rota de rede
 Após o login, o usuário pode deslogar, voltando ao início.
 
 Está tudo bem simples, mas está funcional.
+
+
+`<< AC03 >>`
+A AC03 consiste em uma pequena demonstração da junção entre o backend e o frontend. 
+
+O usuário poderá clicar no botão de verificar o status da API que irá chamar o backend e devolver o status da API.
+
+Está tudo bem simples, mas está funcional.
