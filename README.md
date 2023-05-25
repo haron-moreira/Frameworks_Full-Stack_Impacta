@@ -33,3 +33,12 @@ A AC03 consiste em uma pequena demonstração da junção entre o backend e o fr
 O usuário poderá clicar no botão de verificar o status da API que irá chamar o backend e devolver o status da API.
 
 Está tudo bem simples, mas está funcional.
+
+
+`<< AC04 >>`
+A AC04 consiste em dois end-points: um get e um post para buscar e cadastrar usuário respectivamente.
+
+na rota /cadastro deve ser informado no formato json os campos "nome", "sobrenome" e "id"
+ja na rota /get_cadastro/id deve ser informado o id a ser buscado.
+
+Está tudo bem simples, mas está funcional.
